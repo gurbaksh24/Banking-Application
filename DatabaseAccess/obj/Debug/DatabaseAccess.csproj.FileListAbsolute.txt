@@ -1,0 +1,6 @@
+C:\Users\ggabbi\source\repos\BankingApplication\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\ggabbi\source\repos\BankingApplication\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\BankingApplication\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\ggabbi\source\repos\BankingApplication\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\ggabbi\source\repos\BankingApplication\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\ggabbi\source\repos\BankingApplication\DatabaseAccess\obj\Debug\DatabaseAccess.pdb

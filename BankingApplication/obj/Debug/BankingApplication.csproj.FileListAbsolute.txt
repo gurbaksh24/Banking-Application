@@ -1,0 +1,9 @@
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\DatabaseAccess.dll
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\DatabaseAccess.pdb
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csprojResolveAssemblyReference.cache
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
