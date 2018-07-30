@@ -4,6 +4,12 @@ C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\Ban
 C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
 C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\DatabaseAccess.dll
 C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\DatabaseAccess.pdb
-C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csprojResolveAssemblyReference.cache
 C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
 C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csprojAssemblyReference.cache
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\EntityFramework.dll
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\DatabaseAccess.dll.config
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\EntityFramework.xml
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CopyComplete
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ggabbi\source\repos\BankingApplication\BankingApplication\bin\Debug\EntityFramework.SqlServer.xml

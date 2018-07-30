@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 namespace DatabaseAccess
 {
-    interface IDatabase
+    public interface IDatabase
     {
         SqlConnection Connect();
         int InsertUser(int customerId, string customerName, string accountType);
@@ -14,5 +14,8 @@ namespace DatabaseAccess
         int SearchDetails(int customerId);
         int UpdateBalance(int customerId,int amount);
         int WithdrawBalance(int customerId, int amount);
+        int AccountType(int customerId);
+        int TotalAmount(int customerId);
+        int Interest(int customerId);
     }
 }

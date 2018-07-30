@@ -199,7 +199,6 @@ namespace DatabaseAccess
         {
             SqlConnection sqlConnection = Connect();
             SqlCommand sqlCommand;
-            int accountType = -1;
             try
             {
                 string query = "Select * from Account where CustomerID=@customerId";
@@ -229,6 +228,11 @@ namespace DatabaseAccess
             {
                 sqlConnection.Close();
             }
+        }
+
+        public int Interest(int customerId)
+        {
+            throw new NotImplementedException();
         }
     }
 }
